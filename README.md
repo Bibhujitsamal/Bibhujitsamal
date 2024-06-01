@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Bibhujitsamal
-- 👀 I’m interested in ...Game development
-- 🌱 I’m currently learning ...Unreal engine 5
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Web development
 - 📫 How to reach me ...using my mail id bibhujit2003@gmail.com
 
 <!---
